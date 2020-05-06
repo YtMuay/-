@@ -55,3 +55,5 @@ $$z*(x+y)$$
 这是比较符合现在上课的情况的Cron,各位也可以根据这个列表进行自定义
 
 贡献此来源原作者是[@yuban10703](https://github.com/yuban10703/chaoxingsign)
+
+* [本仓库发布地址](https://github.com/YtMuay/3CCKfHtw/releases)

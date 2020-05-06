@@ -8,7 +8,7 @@
 ## 本地使用教程
 1. python3环境
 2. 安装模块: pip install requests
-3. 在同目录下的conf.json中写入配置
+3. 在同目录下的[conf.json](https://github.com/YtMuay/3CCKfHtw/blob/master/chaoxinsign/config.json)中写入配置
 4. 双击运行...
 ## 云函数使用教程
 1. 去腾讯云创建一个云函数,目前测试广州好像不能用.其他地区可以.
